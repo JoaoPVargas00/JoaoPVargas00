@@ -4,6 +4,13 @@
 
 Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Concluir meu curso de Dev Back End pelo Senai.
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="www.linkedin.com/in/joaop-vargas"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linknovo.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/joaop.vargas96?igsh=OWNpNmVsNGRnd3Rs&utm_source=qr"><img width="32px" alt="Ko-fi" title="Instagram" src="novo.svg"/></a>
+</p>
+
 <p align="left">
     <a href="https://github.com/JoaoPVargas00?tab=repositories">
         <img 
@@ -19,14 +26,7 @@ Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Esto
             src="https://custom-icon-badges.demolab.com/github/followers/JoaoPVargas00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/joaop-vargas">
-        <img 
-            alt="LinkedIn" 
-            title="Me seguia no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/linkedin/followers/JoaoPVargas00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+   
 
 ---
 
@@ -127,5 +127,7 @@ Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Esto
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopvargas00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</p>
 
 </p>
