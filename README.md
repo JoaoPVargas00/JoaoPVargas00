@@ -6,9 +6,20 @@ Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Esto
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/joaop-vargas"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linknovo.svg"/></a>
+  <a href="www.linkedin.com/in/joaop-vargas">
+  <img width="32px" 
+  alt="LinkedIn" 
+  title="LinkedIn" 
+  src="linknovo.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/joaop.vargas96?igsh=OWNpNmVsNGRnd3Rs&utm_source=qr"><img width="32px" alt="Ko-fi" title="Instagram" src="novo.svg"/></a>
+  <a href="https://www.instagram.com/joaop.vargas96?igsh=OWNpNmVsNGRnd3Rs&utm_source=qr">
+  <img width="32px" 
+  alt="Instagram" 
+  title="Instagram" 
+  src="novo.svg"/>
+  </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <p align="left">
@@ -127,7 +138,5 @@ Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Esto
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopvargas00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
 
 </p>
