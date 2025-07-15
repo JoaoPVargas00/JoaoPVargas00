@@ -6,20 +6,13 @@ Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Esto
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/joaop-vargas">
-  <img width="32px" 
-  alt="LinkedIn" 
-  title="LinkedIn" 
-  src="linknovo.svg"/>
-  </a>
+  <a href="www.linkedin.com/in/joaop-vargas"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/joaop.vargas96?igsh=OWNpNmVsNGRnd3Rs&utm_source=qr">
-  <img width="32px" 
-  alt="Instagram" 
-  title="Instagram" 
-  src="novo.svg"/>
-  </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+
 </p>
 
 <p align="left">
