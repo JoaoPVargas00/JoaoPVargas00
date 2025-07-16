@@ -7,9 +7,17 @@ Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Esto
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/joaop-vargas"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/joaop-vargas/" target="_blank">
+    <img 
+      width="32px" 
+      alt="LinkedIn" 
+      title="LinkedIn"
+      src="InBug-White.png"
+    />
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
+   <a href="https://www.instagram.com/joaop.vargas96?igsh=OWNpNmVsNGRnd3Rs&utm_source=qr" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="instagram.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <p align="left">
