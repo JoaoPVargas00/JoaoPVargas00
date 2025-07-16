@@ -4,6 +4,12 @@
 
 Me chamo João Pedro Vargas, tenho 28 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Concluir meu curso de Dev Back End pelo Senai.
 
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="www.linkedin.com/in/joaop-vargas"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 </p>
 
 <p align="left">
