@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="banner_anime_modified.webp" 
+    src="Imagem do WhatsApp de 2025-07-22 à(s) 15.29.49_7301d562.jpg" 
     alt="João Pedro Vargas - Banner" 
     style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
   />
@@ -34,7 +34,7 @@ Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 
 
 ## 🚀 Tecnologias e Ferramentas
 
-[![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,python,php,gitvscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,typescript,nodejs,npm,vscode,php,python)](https://skillicons.dev)
 
 ---
 
@@ -61,7 +61,7 @@ Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 
   </a>
   &nbsp;&nbsp;
   <a href="mailto:joaopsvargas@gmail.com" target="_blank" title="E-mail">
-    <img src="mail.png" height="30" />
+    <img src="gmail.png" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/JoaoPVargas00" target="_blank" title="GitHub">
