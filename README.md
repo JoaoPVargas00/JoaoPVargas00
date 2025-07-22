@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="Imagem do WhatsApp de 2025-07-22 à(s) 15.29.49_7301d562.jpg" 
+    src="banner.jpg" 
     alt="João Pedro Vargas - Banner" 
     style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
   />
