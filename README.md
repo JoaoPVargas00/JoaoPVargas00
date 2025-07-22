@@ -9,7 +9,7 @@ Sou **João Pedro Vargas**, desenvolvedor Back-End apaixonado por tecnologia, co
 
 ## 🚀 Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,python,java,html,css,npm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,python,java,html,css,npm,vscode,git)](https://skillicons.dev)
 
 ---
 
