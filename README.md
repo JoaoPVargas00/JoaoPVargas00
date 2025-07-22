@@ -1,4 +1,13 @@
+
 # 👨🏽‍💻 João Pedro Vargas
+
+<p align="center">
+  <img 
+    src="https://i.imgur.com/h3Ipdxq.png" 
+    alt="João Pedro Vargas - Banner" 
+    width="100%"
+  />
+</p>
 
 <h2 align="center">Desenvolvedor Back-End</h2>
 
@@ -8,7 +17,7 @@ Sou **João Pedro Vargas**, desenvolvedor Back-End apaixonado por tecnologia, co
 
 ## 🚀 Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,python,java,html,css,npm,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,python,java,html,css,npm,vscode)](https://skillicons.dev)
 
 ---
 
