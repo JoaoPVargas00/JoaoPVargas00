@@ -1,40 +1,14 @@
 # 👨🏽‍💻 João Pedro Vargas
 
-<p align="center">
-  <img 
-    src="banner.jpg" 
-    alt="João Pedro Vargas - Banner" 
-    style="border-radius: 12px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"
-  />
-</p>
+<h2 align="center">Desenvolvedor Back-End</h2>
 
-
-**`Desenvolvedor Back End`**
-
-Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 28 anos, sou natural do Rio de Janeiro e atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá. Concluí minha formação como Dev Back End pelo **SENAI**, onde desenvolvi uma base sólida em tecnologias modernas e práticas de mercado.
-
-<p align="left">
-  <a href="https://github.com/JoaoPVargas00?tab=repositories">
-    <img 
-      alt="Stars" 
-      title="Minhas Estrelas" 
-      src="https://custom-icon-badges.demolab.com/github/stars/JoaoPVargas00?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
-  </a>
-  <a href="https://github.com/JoaoPVargas00?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/JoaoPVargas00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
+Sou **João Pedro Vargas**, desenvolvedor Back-End apaixonado por tecnologia, com 28 anos, natural do Rio de Janeiro. Atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá e sou formado como **Dev Back-End** pelo **SENAI**, onde desenvolvi uma base sólida em tecnologias modernas e práticas alinhadas ao mercado.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,typescript,nodejs,npm,vscode,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,python,java,html,css,npm,vscode,git)](https://skillicons.dev)
 
 ---
 
@@ -51,17 +25,32 @@ Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 
   />
 </p>
 
+<p align="center">
+  <a href="https://github.com/JoaoPVargas00?tab=repositories">
+    <img 
+      alt="Estrelas" 
+      src="https://custom-icon-badges.demolab.com/github/stars/JoaoPVargas00?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+  <a href="https://github.com/JoaoPVargas00?tab=followers">
+    <img 
+      alt="Seguidores" 
+      src="https://custom-icon-badges.demolab.com/github/followers/JoaoPVargas00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"
+    />
+  </a>
+</p>
+
 ---
 
-## 📩 Contate-me
+## 📩 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaop-vargas/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:joaopsvargas@gmail.com" target="_blank" title="E-mail">
-    <img src="gmail.png" height="30" />
+  <a href="mailto:joaopsvargas@gmail.com" title="E-mail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/JoaoPVargas00" target="_blank" title="GitHub">
