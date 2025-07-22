@@ -1,14 +1,6 @@
 
 # 👨🏽‍💻 João Pedro Vargas
 
-<p align="center">
-  <img 
-    src="https://i.imgur.com/h3Ipdxq.png" 
-    alt="João Pedro Vargas - Banner" 
-    width="100%"
-  />
-</p>
-
 <h2 align="center">Desenvolvedor Back-End</h2>
 
 Sou **João Pedro Vargas**, desenvolvedor Back-End apaixonado por tecnologia, com 28 anos, natural do Rio de Janeiro. Atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá e sou formado como **Dev Back-End** pelo **SENAI**, onde desenvolvi uma base sólida em tecnologias modernas e práticas alinhadas ao mercado.
