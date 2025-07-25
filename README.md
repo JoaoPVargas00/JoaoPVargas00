@@ -56,17 +56,14 @@ Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 
 ## 📩 Contate-me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaop-vargas/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/joaop-vargas/" target="_blank" 
+  title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
   &nbsp;&nbsp;
-    <a href="mailto:joaopsvargas@gmail.com" 
-  target="_blank" 
-  title="E-mail">
-    <img src="Gmail-Dark.svg" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JoaoPVargas00" target="_blank" title="GitHub">
+  <a href="https://github.com/JoaoPVargas00" target="_blank" 
+  title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
 </p>
+
