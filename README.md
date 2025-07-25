@@ -60,8 +60,10 @@ Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:joaopsvargas@gmail.com" target="_blank" title="E-mail">
-    <img src="gmail.png" height="30" />
+    <a href="mailto:joaopsvargas@gmail.com" 
+  target="_blank" 
+  title="E-mail">
+    <img src="Gmail-Dark.svg" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/JoaoPVargas00" target="_blank" title="GitHub">
