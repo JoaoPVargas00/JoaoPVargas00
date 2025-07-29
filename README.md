@@ -34,7 +34,7 @@ Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 
 
 ## 🚀 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,typescript,nodejs,npm,vscode,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,typescript,nodejs,npm,vscode,git,php,python)](https://skillicons.dev)
 
 ---
 
