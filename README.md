@@ -25,7 +25,7 @@ Sou João Pedro Vargas, desenvolvedor Back End e Estagiário de Analise de Dados
 
 ## 🚀 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,typescript,nodejs,npm,react,vscode,github,git,php,python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,typescript,nodejs,npm,react,vscode,github,git,php,python,qliksense)](https://skillicons.dev)
 
 ---
 
