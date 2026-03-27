@@ -1,6 +1,6 @@
 # 👨🏽‍💻 João Pedro Vargas
 
-**`Desenvolvedor Back End`**
+**`Desenvolvedor Back End | Analista de Dados - BI`**
 
 Sou João Pedro Vargas, desenvolvedor Back End e Estagiário de Analise de Dados . Tenho 28 anos, sou natural do Rio de Janeiro e atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá. Concluí minha formação como Dev Back End pelo **SENAI**, onde desenvolvi uma base sólida em tecnologias modernas e práticas de mercado.
 
