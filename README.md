@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back End`**
 
-Sou João Pedro Vargas, desenvolvedor Back End apaixonado por tecnologia. Tenho 28 anos, sou natural do Rio de Janeiro e atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá. Concluí minha formação como Dev Back End pelo **SENAI**, onde desenvolvi uma base sólida em tecnologias modernas e práticas de mercado.
+Sou João Pedro Vargas, desenvolvedor Back End e Estagiário de Analise de Dados . Tenho 28 anos, sou natural do Rio de Janeiro e atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá. Concluí minha formação como Dev Back End pelo **SENAI**, onde desenvolvi uma base sólida em tecnologias modernas e práticas de mercado.
 
 <p align="left">
   <a href="https://github.com/JoaoPVargas00?tab=repositories">
